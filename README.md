@@ -1,9 +1,12 @@
-# Hi, I'm Reynata Praja Oktavian
+# Hi, I'm Rey
 ---
-I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology 🎮 </br>
-You can check and download games I've developed at https://github.com/ReyC4
+**📌About** <br>
+Hi, i'm Reynata Praja Oktavian konwn as Rey. i'm currently a student at Bina Nusantara University, majoring in Game Application and Technology 🎮 </br>
 
-# Here you can see some of the games that I made:
+**📩Email** <br>
+picarus34@gmail.com
+
+# Here you can see the games that I made:
 <table width="100%">
   <thead>
     <tr>
