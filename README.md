@@ -1,5 +1,4 @@
-# Hi, I'm Rey
----
+# Hi, I'm Rey 👋
 **📌About** <br>
 Hi, i'm Reynata Praja Oktavian konwn as Rey. i'm currently a student at Bina Nusantara University, majoring in Game Application and Technology 🎮 </br>
 
