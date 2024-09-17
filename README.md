@@ -3,7 +3,7 @@
 I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology 🎮 </br>
 You can check and download games I've developed at https://github.com/ReyC4
 
-# Here are highlights from some of the games I made:
+# Here you can see some of the games that I made:
 <table width="100%">
   <thead>
     <tr>
