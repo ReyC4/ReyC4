@@ -30,7 +30,7 @@ picarus34@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bgdc.itch.io/keep-yourself-alive">Top Down Game</a></th>
+      <th width="50%"><a href="https://github.com/ReyC4/Top-Down-Plane">Top Down Game</a></th>
       <th width="50%"><a href="https://github.com/ReyC4/Horror-TopDown/Dark Whisper">Dark Whisper</a></th>
     </tr>
   </thead>
