@@ -1,6 +1,6 @@
 # Hi, I'm Rey 👋
 **📌About** <br>
-Hi, i'm Reynata Praja Oktavian konwn as Rey. i'm currently a student at Bina Nusantara University, majoring in Game Application and Technology 🎮 </br>
+Hi, i'm Reynata Praja Oktavian konwn as Rey. I'm a passionate, hardworking, and skill at my field, currently a student at Bina Nusantara University, majoring in Game Application and Technology 🎮. I am also skilled in the field of application development. </br>
 
 **📩Email** <br>
 picarus34@gmail.com
