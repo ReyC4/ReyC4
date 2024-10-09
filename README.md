@@ -36,7 +36,7 @@ picarus34@gmail.com
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/ReyC4/ReyC4/blob/main/GIF/Plane.gif"/></td>
+      <td><img src="https://github.com/ReyC4/ReyC4/blob/main/GIF/TopD.gif"/></td>
       <td><img src="https://github.com/ReyC4/ReyC4/blob/main/GIF/Dark.gif"/></td>
     </tr>
     <tr>
