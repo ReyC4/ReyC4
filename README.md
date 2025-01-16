@@ -47,7 +47,7 @@ picarus34@gmail.com
       <td valign="text-top">The game combines atmospheric horror with detective work, creating an immersive and suspenseful experience that keeps players on the edge of their seats. Each discovery and every twist in the storyline brings them closer to uncovering the truth about the missing person and the sinister forces at play.<br></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Andhika-Suryanto/2D-GDC-Perilsiums-Project">Read More</a></td> 
+      <td align="center"><a href="https://github.com/ReyC4/Top-Down-Plane/blob/main/README.md">Read More</a></td> 
       <td align="center"><a href="https://github.com/ReyC4/Horror-TopDown/blob/main/README.md">Read More</a></td> 
     </tr>
   </tbody>
@@ -58,7 +58,7 @@ picarus34@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://github.com/ReyC4/Top-Down-Plane">Perilsiums</a></th>
+      <th width="50%"><a href="https://github.com/ReyC4/2D-GDC-Perilsiums-Project">Perilsiums</a></th>
       <th width="50%">Coming Soon</a></th>
     </tr>
   </thead>
@@ -72,7 +72,7 @@ picarus34@gmail.com
       <td valign="text-top">COMING SOON<br></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/ReyC4/2D-GDC-Perilsiums-Project">Read More</a></td> 
+      <td align="center"><a href="https://github.com/ReyC4/2D-GDC-Perilsiums-Project/blob/main/README.md">Read More</a></td> 
       <td align="center"></a></td> 
     </tr>
   </tbody>
