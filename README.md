@@ -59,21 +59,21 @@ picarus34@gmail.com
   <thead>
     <tr>
       <th width="50%"><a href="https://github.com/ReyC4/2D-GDC-Perilsiums-Project">Perilsiums</a></th>
-      <th width="50%">Coming Soon</a></th>
+      <th width="50%"><a href="https://github.com/ReyC4/Rhythm-BN/tree/Oy">Project Rhythm</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center"><img src="https://github.com/ReyC4/ReyC4/blob/main/GIF/Perilsiums.gif" alt="1" style="width:100%;height:auto;"/></td>
-      <td><img src="https://github.com/ReyC4/ReyC4/blob/main/GIF/Coming%20Soon.png"/></td>
+      <td><img src="https://github.com/ReyC4/ReyC4/blob/main/GIF/Cando.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">Embark on an epic journey in Perilsiums, a 2D top-down RPG currently in development. In this early build, players can explore the Forest, a lush and mysterious region with four distinct areas to traverse—from the Forest Spawn Point to the thrilling showdown in the Boss Field against the mighty Slime Urn.</td>
-      <td valign="text-top">COMING SOON<br></td>
+      <td valign="text-top">A rhythm game is a music-based video game that challenges players to tap, press, or perform actions in time with visual and audio cues that follow a song’s beat. Players are scored based on timing and accuracy, with gameplay focusing on coordination, reflexes, and rhythm.<br></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/ReyC4/2D-GDC-Perilsiums-Project/blob/main/README.md">Read More</a></td> 
-      <td align="center"></a></td> 
+      <td align="center"><a href="https://github.com/ReyC4/Rhythm-BN/edit/Oy/README.md">Read More</a></td> 
     </tr>
   </tbody>
 </table>
