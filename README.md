@@ -59,7 +59,7 @@ picarus34@gmail.com
   <thead>
     <tr>
       <th width="50%"><a href="https://github.com/ReyC4/2D-GDC-Perilsiums-Project">Perilsiums</a></th>
-      <th width="50%"><a href="https://github.com/ReyC4/Rhythm-BIN">Project Rhythm</a></th>
+      <th width="50%"><a href="https://github.com/ReyC4/Rhythm-BN/tree/New">Project Rhythm</a></th>
     </tr>
   </thead>
   <tbody>
@@ -73,7 +73,7 @@ picarus34@gmail.com
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/ReyC4/2D-GDC-Perilsiums-Project/blob/main/README.md">Read More</a></td> 
-      <td align="center"><a href="https://github.com/ReyC4/Rhythm-BIN/blob/main/README.md">Read More</a></td> 
+      <td align="center"><a href="https://github.com/ReyC4/Rhythm-BN/edit/New/README.md">Read More</a></td> 
     </tr>
   </tbody>
 </table>
