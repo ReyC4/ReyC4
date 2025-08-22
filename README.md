@@ -73,7 +73,7 @@ picarus34@gmail.com
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/ReyC4/2D-GDC-Perilsiums-Project/blob/main/README.md">Read More</a></td> 
-      <td align="center"><a href="https://github.com/ReyC4/Rhythm-BN/blob/Oy/README.md">Read More</a></td> 
+      <td align="center"><a href="https://github.com/ReyC4/Rhythm-BIN/blob/main/README.md">Read More</a></td> 
     </tr>
   </tbody>
 </table>
