@@ -1,6 +1,6 @@
 # Hi, I'm Rey 👋
 **📌About** <br>
-Hi, i'm Reynata Praja Oktavian known as Rey. I'm a passionate, hardworking, and skill at my field, currently a student at Bina Nusantara University, majoring in Computer Science (Game Application and Technology 🎮). I am also skilled in the field of application development. </br>
+Hi, I'm Reynata Praja Oktavian (Rey), a Game Application and Technology also Computer Science student at Bina Nusantara University. I specialize in Game Programming and Game Design, with experience in developing gameplay systems, serious games, and research-based projects that combine technology, education, and interactive user experiences. 🎮🚀 </br>
 
 **📩Email** <br>
 picarus34@gmail.com
